@@ -10,6 +10,10 @@ import config from "@/config";
 
 const links = [
   {
+    href: "/timeline",
+    label: "Timeline ⚡️",
+  },
+  {
     href: "/#pricing",
     label: "Pricing",
   },
